@@ -1,0 +1,7 @@
+C:\Users\socce\source\repos\Hackathon2025\obj\Debug\ProjHackathon2025.csproj.AssemblyReference.cache
+C:\Users\socce\source\repos\Hackathon2025\obj\Debug\MainWindow.g.cs
+C:\Users\socce\source\repos\Hackathon2025\obj\Debug\App.g.cs
+C:\Users\socce\source\repos\Hackathon2025\obj\Debug\Hackathon2025_MarkupCompile.cache
+C:\Users\socce\source\repos\Hackathon2025\obj\Debug\Hackathon2025_MarkupCompile.lref
+C:\Users\socce\source\repos\Hackathon2025\obj\Debug\Hackathon2025.exe
+C:\Users\socce\source\repos\Hackathon2025\obj\Debug\Hackathon2025.pdb
