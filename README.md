@@ -1,5 +1,7 @@
 PickHacks 2025
+
 Winner - 3rd Place Overall
+
 Winner - Best use of Gemini API
 
 ## Inspiration
