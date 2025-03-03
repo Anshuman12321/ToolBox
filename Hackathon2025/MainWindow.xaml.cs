@@ -20,8 +20,7 @@ namespace Hackathon2025
 {
     public partial class MainWindow : Window
     {
-        private static readonly string ApiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAWyk3Mw2VxfMtAMOktdIWW8behBOioSrU"; // Replace with your API key
-        private static readonly string SpeechApiKey = "AIzaSyBf9ZUjEZsWlq--u-5jGDfH6NuhP3wZrh0"; // Replace with your Speech-to-Text API key or service account info.
+        private static readonly string ApiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAWyk3Mw2VxfMtAMOktdIWW8behBOioSrU";
         private string lastAnswerAndPrompt = "";
         private string helpingPrompt = " THIS PORTION OF THE PROMPT IS TO HELP GUIDE YOUR ANSWER. YOUR FUNCTION IS AS AN AI AID TO A GAMER PLAYING A VIDEO GAME ASKING A QUESTION ABOUT THE GAME. BE CONCISE AS POSSIBLE, NO LINEBREAKS. USE PREVIOUS PROMPTS AND ANSWERS GIVEN EARLIER TO MAKE AN ASSUMPTION ON WHAT THE TEXT AFTER \"NEW PROMPT:\" REFERS TO. IT MAY BE AN ANSWER TO A PREVIOUS RESPONSE YOU GAVE. BE ENTHUSIASTIC ANd SOUND HUMAN";
 
