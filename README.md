@@ -1,4 +1,6 @@
 PickHacks 2025
+Winner - 3rd Place Overall
+Winner - Best use of Gemini API
 
 ## Inspiration
 We wanted to make gaming more accessible by providing tools that help users with vision impairments, light sensitivity, and other accessibility needs. Many games lack built-in accessibility features, so we created a customizable overlay to enhance the experience for everyone!
